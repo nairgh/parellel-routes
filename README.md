@@ -1,3 +1,10 @@
+Parellel routes in Next.js are defined using a feature known as slots
+Slotes help structure our content in a modular fashion
+To define a slot, use the '@folder' naming convention
+
+The benefit of parallel routes is its ability to split a single layout into various slots, making the code more manageable, independant route handling and sub-navigation
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

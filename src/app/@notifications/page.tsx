@@ -1,8 +1,9 @@
 import React from 'react'
+import Card from '../components/card'
 
 const page = () => {
   return (
-    <div>Parellel Routes</div>
+    <div><Card>Notification Page</Card></div>
   )
 }
 
