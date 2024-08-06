@@ -3,6 +3,7 @@ Slotes help structure our content in a modular fashion
 To define a slot, use the '@folder' naming convention
 
 The benefit of parallel routes is its ability to split a single layout into various slots, making the code more manageable, independant route handling and sub-navigation
+![parellel](https://github.com/user-attachments/assets/2a18b1b8-260f-4b05-9008-eba1b88e1e22)
 
 ![loading](https://github.com/user-attachments/assets/f1e9a712-b56e-4744-bf61-4e6441910960)
 
